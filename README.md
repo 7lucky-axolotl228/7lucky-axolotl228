@@ -1,14 +1,12 @@
 # Xasanov Anvar
-<h3 align="center">Начинающий frontend программист</h3>
+### Начинающий frontend программист
+Начал заниматься в этой сфере с января 2023 года. 
+
+[💼 Protfolio](https://app.netlify.com/teams/7lucky-axolotl228/overview) | [💬 Telegram](https://t.me/xasanov_a87) | 📧 KhasanovAnvar07@gmail.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7lucky-axolotl228" alt="7lucky-axolotl228" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 На данный момент изучаю **HTML, CSS, JavaScript, Bootstrap**
-
-- 📫 Мой Email: **KhasanovAnvar07@gmail.com**
-- 📫 Профиль со всеми макетами: **https://app.netlify.com/teams/7lucky-axolotl228/overview**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
