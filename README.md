@@ -7,7 +7,7 @@
 
 - 🌱 На данный момент изучаю **HTML, CSS, JavaScript, Bootstrap**
 
-- 📫 Как найти меня **KhasanovAnvar07@gmail.com**
+- 📫 Как найти меня: **KhasanovAnvar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
