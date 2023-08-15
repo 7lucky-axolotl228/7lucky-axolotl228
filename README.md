@@ -1,4 +1,4 @@
-### Hi there 👋
+# Xasanov Anvar
 
 <!--
 **7lucky-axolotl228/7lucky-axolotl228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
