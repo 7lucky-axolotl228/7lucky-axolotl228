@@ -8,6 +8,7 @@
 - 🌱 На данный момент изучаю **HTML, CSS, JavaScript, Bootstrap**
 
 - 📫 Мой Email: **KhasanovAnvar07@gmail.com**
+- 📫 Мой Netlify профиль со всеми макетами: **app.netlify.com/teams/7lucky-axolotl228/overview**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
