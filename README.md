@@ -2,7 +2,7 @@
 ### Начинающий frontend программист
 Начал заниматься в этой сфере с января 2023 года. 
 
-[💼 Protfolio](https://app.netlify.com/teams/7lucky-axolotl228/overview) | [💬 Telegram](https://t.me/xasanov_a87) | 📧 KhasanovAnvar07@gmail.com
+[💼 Portfolio](https://app.netlify.com/teams/7lucky-axolotl228/overview) | [💬 Telegram](https://t.me/xasanov_a87) | 📧 KhasanovAnvar07@gmail.com
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7lucky-axolotl228" alt="7lucky-axolotl228" /></a> </p>
