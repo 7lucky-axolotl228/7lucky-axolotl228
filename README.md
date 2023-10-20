@@ -1,6 +1,5 @@
 # Xasanov Anvar
-### Начинающий frontend программист
-Начал заниматься в этой сфере с января 2023 года. 
+### Направление: Frontend
 
 [💼 Portfolio](https://app.netlify.com/teams/7lucky-axolotl228/overview) | [💬 Telegram](https://t.me/xasanov_a87) | 📧 KhasanovAnvar07@gmail.com
 
